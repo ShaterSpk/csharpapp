@@ -1,0 +1,11 @@
+C:\Users\m-poh\source\repos\SchoolDatabase\SchoolDatabase\bin\Debug\SchoolDatabase.exe.config
+C:\Users\m-poh\source\repos\SchoolDatabase\SchoolDatabase\bin\Debug\SchoolDatabase.exe
+C:\Users\m-poh\source\repos\SchoolDatabase\SchoolDatabase\bin\Debug\SchoolDatabase.pdb
+C:\Users\m-poh\source\repos\SchoolDatabase\SchoolDatabase\obj\Debug\SchoolDatabase.csprojAssemblyReference.cache
+C:\Users\m-poh\source\repos\SchoolDatabase\SchoolDatabase\obj\Debug\SchoolDatabase.Properties.Resources.resources
+C:\Users\m-poh\source\repos\SchoolDatabase\SchoolDatabase\obj\Debug\SchoolDatabase.csproj.GenerateResource.cache
+C:\Users\m-poh\source\repos\SchoolDatabase\SchoolDatabase\obj\Debug\SchoolDatabase.csproj.CoreCompileInputs.cache
+C:\Users\m-poh\source\repos\SchoolDatabase\SchoolDatabase\obj\Debug\SchoolDatabase.exe
+C:\Users\m-poh\source\repos\SchoolDatabase\SchoolDatabase\obj\Debug\SchoolDatabase.pdb
+C:\Users\m-poh\source\repos\SchoolDatabase\SchoolDatabase\obj\Debug\SchoolDatabase.Form1.resources
+C:\Users\m-poh\source\repos\SchoolDatabase\SchoolDatabase\obj\Debug\SchoolDatabase.Backend.formStudent.resources
